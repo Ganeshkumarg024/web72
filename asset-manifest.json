@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/web72/static/css/main.1d49dcc3.css",
+    "main.css": "/web72/static/css/main.0d0a73fc.css",
     "main.js": "/web72/static/js/main.19c9f9ec.js",
     "static/css/27.db4dacd2.chunk.css": "/web72/static/css/27.db4dacd2.chunk.css",
     "static/js/27.fade8a2d.chunk.js": "/web72/static/js/27.fade8a2d.chunk.js",
@@ -51,7 +51,7 @@
     "static/media/client-18.jpg": "/web72/static/media/client-18.041fedd1422f22d1a612.jpg",
     "static/media/client-1.jpg": "/web72/static/media/client-1.b594006daeffab6ac6ae.jpg",
     "index.html": "/web72/index.html",
-    "main.1d49dcc3.css.map": "/web72/static/css/main.1d49dcc3.css.map",
+    "main.0d0a73fc.css.map": "/web72/static/css/main.0d0a73fc.css.map",
     "main.19c9f9ec.js.map": "/web72/static/js/main.19c9f9ec.js.map",
     "27.db4dacd2.chunk.css.map": "/web72/static/css/27.db4dacd2.chunk.css.map",
     "27.fade8a2d.chunk.js.map": "/web72/static/js/27.fade8a2d.chunk.js.map",
@@ -67,7 +67,7 @@
     "532.d77bce95.chunk.css.map": "/web72/static/css/532.d77bce95.chunk.css.map"
   },
   "entrypoints": [
-    "static/css/main.1d49dcc3.css",
+    "static/css/main.0d0a73fc.css",
     "static/js/main.19c9f9ec.js"
   ]
 }
